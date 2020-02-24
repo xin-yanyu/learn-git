@@ -2,5 +2,6 @@
 Learn git
 do it.
 
-增加 hello.py 
+增加连个python文件
+hello.py 
 today.py
